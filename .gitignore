@@ -7,6 +7,10 @@ pids
 *.pid
 *.seed
 
+# codio config files
+.codio
+.settings
+
 # miscellaneous files - not in meadowlark project
 miscellaneous
 
