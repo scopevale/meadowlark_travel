@@ -1,0 +1,30 @@
+{
+  "name": "Meadowlark_Travel",
+  "version": "0.0.1",
+  "description": "example website from Web Development with Node and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node meadowlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scopevale/meadowlark_travel.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Gary Smith <scopevale@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scopevale/meadowlark_travel/issues"
+  },
+  "homepage": "https://github.com/scopevale/meadowlark_travel",
+  "dependencies": {
+    "express": "~4.6.1"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.6",
+    "pre-commit": "*"
+  }
+}
