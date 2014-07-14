@@ -14,7 +14,7 @@
   "keywords": [
     "express"
   ],
-	"pre-commit": [
+  "pre-commit": [
     "test"
   ],
   "author": "Gary Smith <scopevale@gmail.com>",
@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "gulp": "~3.8.6",
-    "pre-commit": "*"
+    "pre-commit": "*",
+    "gulp-compass": "~1.1.9"
   }
 }
